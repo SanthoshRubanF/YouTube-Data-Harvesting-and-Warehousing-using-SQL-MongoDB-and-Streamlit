@@ -1,4 +1,4 @@
-# YouTube Data Scraper and Analysis
+# YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit
 
 This project is a web application built using Streamlit, designed to extract data from YouTube channels, store it in MongoDB, and then migrate it to a PostgreSQL database. The application provides functionalities for data extraction, storage, migration, and analysis, offering valuable insights into YouTube channel performance.
 
