@@ -6,7 +6,7 @@ import pymongo
 import psycopg2
 import pandas as pd
 
-api_key = "AIzaSyAPnTAb5dM-TwSY5LCEYx8N1dQuL15FbAw"
+api_key = "insert youtube API key here"
 you_tube = build("youtube", "v3", developerKey=api_key)
 
 client = pymongo.MongoClient("mongodb+srv://santa12:Santhosh12@cluster0.gtnlysn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
